@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+	<channel>
+		<title>Cosmos</title>
+		<item>
+			<title>1.1.1</title>
+			<pubDate>Thu, 03 Mar 14:33:28 +0000</pubDate>
+			<sparkle:releaseNotesLink>https://genkiinstruments.github.io/release_notes/cosmos/1.1.1.html</sparkle:releaseNotesLink>
+			<enclosure url="https://bitbucket.org/genki_instruments/software_releases/downloads/Cosmos_win.zip" sparkle:version="1.1.1" sparkle:shortVersionString="1.1.1" sparkle:os="windows" sparkle:installerArguments="/SILENT /SP- /NOICONS /CLOSEAPPLICATIONS" length="0" type="application/octet-stream" sparkle:dsaSignature="MEUCIFIiezQDeQjb6vnxF0BH3dd+iXbtPuLq27WaROzfutvvAiEAovVrKNcz03XKYUWbUWG5uibCreGLXSXpKBeFSbAa5Qs="/>
+		</item>
+		<item>
+			<title>1.1.1</title>
+			<pubDate>Thu, 03 Mar 14:36:57 +0000</pubDate>
+			<sparkle:releaseNotesLink>https://genkiinstruments.github.io/release_notes/cosmos/1.1.1.html</sparkle:releaseNotesLink>
+			<enclosure url="https://bitbucket.org/genki_instruments/software_releases/downloads/Cosmos_mac.zip" sparkle:version="1.1.1" sparkle:shortVersionString="1.1.1" sparkle:os="macos" length="4252104" type="application/octet-stream" sparkle:edSignature="y5+0p9s90xVFwWidLA/qqvFjkKukN5Lp6ID/SMEN3RwvIICzsff5VDsLpJ5sfiQp5nbuqVWo+cdh92h5jQT0AA=="/>
+		</item>
+	</channel>
+</rss>

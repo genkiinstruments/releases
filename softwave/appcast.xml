@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+	<channel>
+		<title>Softwave</title>
+		<item>
+			<title>0.12.3</title>
+			<pubDate>Mon, 17 Jan 16:59:51 +0000</pubDate>
+			<sparkle:releaseNotesLink>https://genkiinstruments.github.io/release_notes/softwave/0.12.3.html</sparkle:releaseNotesLink>
+			<enclosure url="https://bitbucket.org/genki_instruments/software_releases/downloads/Softwave_win.exe" sparkle:version="0.12.3" sparkle:shortVersionString="0.12.3" sparkle:os="windows" sparkle:installerArguments="/SILENT /SP- /NOICONS /CLOSEAPPLICATIONS" length="0" type="application/octet-stream" sparkle:dsaSignature="MEUCIQCPOChR+vNGABB1AOt3DsW1xKnXQ0m3y8v0wKUWdTNfcAIgI2gW0kAlUjQJcIo/iKesnqaGQ0cBw+5RWqyojpp2K9Q="/>
+		</item>
+		<item>
+			<title>0.12.3</title>
+			<pubDate>Mon, 17 Jan 16:58:44 +0000</pubDate>
+			<sparkle:releaseNotesLink>https://genkiinstruments.github.io/release_notes/softwave/0.12.3.html</sparkle:releaseNotesLink>
+			<enclosure url="https://bitbucket.org/genki_instruments/software_releases/downloads/Softwave_mac.zip" sparkle:version="0.12.3" sparkle:shortVersionString="0.12.3" sparkle:os="macos" length="5077894" type="application/octet-stream" sparkle:edSignature="WtrzBev2dLJKO6dgkp9Mssl1wVn86xYl3U2J6Qd6aKUrgSf0suv9yARTatPEde8CWLwK7ZWeMj1EkOwx0mAsAg=="/>
+		</item>
+	</channel>
+</rss>
